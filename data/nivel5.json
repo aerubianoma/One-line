@@ -1,0 +1,19 @@
+{
+	"nodos":[
+		{"position":{"x":100,"y":100,}},
+		{"position":{"x":100,"y":200,}},
+		{"position":{"x":100,"y":300,}},
+		{"position":{"x":200,"y":200,}},
+		{"position":{"x":300,"y":300,}},
+		{"position":{"x":300,"y":200,}},
+		{"position":{"x":300,"y":100,}}]
+        ,
+	"matriz":[{"fila":[{"valor":0},{"valor":1},{"valor":0},{"valor":1},{"valor":0},{"valor":0},{"valor":0}]},
+		  {"fila":[{"valor":1},{"valor":0},{"valor":1},{"valor":1},{"valor":0},{"valor":0},{"valor":0}]},
+		  {"fila":[{"valor":0},{"valor":1},{"valor":0},{"valor":1},{"valor":0},{"valor":0},{"valor":0}]},
+		  {"fila":[{"valor":1},{"valor":1},{"valor":1},{"valor":0},{"valor":1},{"valor":1},{"valor":1}]},
+		  {"fila":[{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":0},{"valor":1},{"valor":0}]},
+		  {"fila":[{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":1},{"valor":0},{"valor":1}]},
+		  {"fila":[{"valor":0},{"valor":0},{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":0}]}]
+        
+}

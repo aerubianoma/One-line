@@ -1,0 +1,15 @@
+{
+	"nodos":[
+		{"position":{"x":200,"y":100,}},
+		{"position":{"x":320,"y":180,}},
+		{"position":{"x":280,"y":320,}},
+		{"position":{"x":120,"y":320,}},
+		{"position":{"x":80,"y":180,}}]
+        ,
+	"matriz":[{"fila":[{"valor":0},{"valor":0},{"valor":1},{"valor":1},{"valor":0}]},
+		  {"fila":[{"valor":0},{"valor":0},{"valor":0},{"valor":1},{"valor":1}]},
+		  {"fila":[{"valor":1},{"valor":0},{"valor":0},{"valor":0},{"valor":1}]},
+		  {"fila":[{"valor":1},{"valor":1},{"valor":0},{"valor":0},{"valor":0}]},
+		  {"fila":[{"valor":0},{"valor":1},{"valor":1},{"valor":0},{"valor":0}]}]
+        
+}
